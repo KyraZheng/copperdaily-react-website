@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/copperdaily-react-website/static/css/main.fbda4940.chunk.css",
+    "main.js": "/copperdaily-react-website/static/js/main.1f1285c8.chunk.js",
+    "main.js.map": "/copperdaily-react-website/static/js/main.1f1285c8.chunk.js.map",
+    "runtime-main.js": "/copperdaily-react-website/static/js/runtime-main.2b95d007.js",
+    "runtime-main.js.map": "/copperdaily-react-website/static/js/runtime-main.2b95d007.js.map",
+    "static/js/2.f0efcd49.chunk.js": "/copperdaily-react-website/static/js/2.f0efcd49.chunk.js",
+    "static/js/2.f0efcd49.chunk.js.map": "/copperdaily-react-website/static/js/2.f0efcd49.chunk.js.map",
+    "index.html": "/copperdaily-react-website/index.html",
+    "precache-manifest.f3062fb1e9f96a06e186e2e5585b2690.js": "/copperdaily-react-website/precache-manifest.f3062fb1e9f96a06e186e2e5585b2690.js",
+    "service-worker.js": "/copperdaily-react-website/service-worker.js",
+    "static/css/main.fbda4940.chunk.css.map": "/copperdaily-react-website/static/css/main.fbda4940.chunk.css.map",
+    "static/js/2.f0efcd49.chunk.js.LICENSE.txt": "/copperdaily-react-website/static/js/2.f0efcd49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b95d007.js",
+    "static/js/2.f0efcd49.chunk.js",
+    "static/css/main.fbda4940.chunk.css",
+    "static/js/main.1f1285c8.chunk.js"
+  ]
+}
